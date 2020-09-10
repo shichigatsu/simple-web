@@ -1,0 +1,3 @@
+org.springframework.boot.SpringApplicationRunListener=com.luanxin.core.autoconfig.listener.SpringContextRunListener
+
+org.springframework.boot.env.EnvironmentPostProcessor=com.luanxin.core.autoconfig.listener.LuanxinEnvironmentPostProcessor
